@@ -18,7 +18,7 @@ limitations under the License.
 
 
 function getDatabase(){
-    return openDatabaseSync("Zeegaree-lite", "1.0", "zeegaree-lite", 1000000);
+    return openDatabaseSync("Zeegaree-lite-devel", "1.0", "zeegaree-lite-devel", 1000000);
 }
 
 /*============== CHECKING DB VERSION ===================*/

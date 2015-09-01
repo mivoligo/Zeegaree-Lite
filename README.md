@@ -11,6 +11,7 @@ These are:
 - libqt4-sql-sqlite
 - python-pyside
 - gir1.2-unity
+- gir1.2-notify
 - maybe something more, let me know
 
 ## How to run it?
